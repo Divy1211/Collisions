@@ -10,8 +10,8 @@
 # How the program works
 
 1. Click anywhere on the screen and a ball will appear and move in a random direction.
-2. You can add as many balls as you want
-Without Gravity:
-![w/o gravity](https://github.com/Divy1211/Collisions/blob/master/collision_objects/Pic.gif)
-With Gravity:
+2. You can add as many balls as you want:  
+Without Gravity:  
+![w/o gravity](https://github.com/Divy1211/Collisions/blob/master/collision_objects/Pic.gif)  
+With Gravity:  
 ![w/o gravity](https://github.com/Divy1211/Collisions/blob/master/gravity_collisions/pic.gif)
