@@ -1,6 +1,6 @@
 # Collisions
 1. I have coded a collision engine program in Processing (a java animations library), my code is a bit messy but i think it will be readable enough. You can run the code in the Processing Developement Environment (PDE) itself.  
-2. It has very basic . If you find a bug you can open a pull request.
+2. If you find a bug you can open a pull request.
 3. There are two programs included, one with gravity and one without gravity
 
 # Prerequisities
