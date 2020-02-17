@@ -3,7 +3,7 @@
 2. If you find a bug you can open a pull request.
 3. There are two programs included, one with gravity and one without gravity
 
-# Prerequisities
+# Prerequisites
 1. You should have Java installed.
 2. You should also download and install the [Processing Developement Environment](https://processing.org/)
 
